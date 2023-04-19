@@ -1,0 +1,15 @@
+C:\Users\joao_\Desktop\viewproduto\bin\Debug\net7.0-windows\viewproduto.exe
+C:\Users\joao_\Desktop\viewproduto\bin\Debug\net7.0-windows\viewproduto.deps.json
+C:\Users\joao_\Desktop\viewproduto\bin\Debug\net7.0-windows\viewproduto.runtimeconfig.json
+C:\Users\joao_\Desktop\viewproduto\bin\Debug\net7.0-windows\viewproduto.dll
+C:\Users\joao_\Desktop\viewproduto\bin\Debug\net7.0-windows\viewproduto.pdb
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.AssemblyInfoInputs.cache
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.AssemblyInfo.cs
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.dll
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\refint\viewproduto.dll
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.pdb
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\viewproduto.genruntimeconfig.cache
+C:\Users\joao_\Desktop\viewproduto\obj\Debug\net7.0-windows\ref\viewproduto.dll
